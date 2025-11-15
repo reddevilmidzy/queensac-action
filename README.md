@@ -18,7 +18,7 @@
   with:
     repo: https://github.com/${{ github.repository }}
     branch: main
-    dry-run: false
+    dry-run: true
     github_app_id: ${{ secrets.QUEENSAC_APP_ID }}
     github_app_private_key: ${{ secrets.QUEENSAC_APP_PRIVATE_KEY }}
 ```
