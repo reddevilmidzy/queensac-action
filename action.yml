@@ -1,4 +1,4 @@
-name: "queensac"
+name: "queensac-action"
 description: "Check GitHub repository links and optionally open PRs to fix them."
 author: "reddevilmidzy"
 branding:
